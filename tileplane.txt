@@ -1,0 +1,18 @@
+10 8         world x and y dims
+0 0 20       viewpoint (x, y, z)
+
+16           tiled plane
+1 4 3       r g b ambient
+6 1 8        r g b diffuse
+0 0 0        r g b specular
+
+1 0 1        normal
+0 0 0        point
+
+1 1 -1    xdirection
+1.25 0.5   size of tile
+
+0 0 0
+8 4 0
+0 0 0
+

@@ -1,0 +1,20 @@
+10 8         world x and y dims
+0 0 20       viewpoint (x, y, z)
+
+14           plane
+5 5 15       r g b ambient
+0 0 0        r g b diffuse
+0 0 0        r g b specular
+
+0 0 1        normal
+0 0 -3        point
+
+25           torus
+0 20 40      rgb ambient
+0 0 0        diffuse
+0 0 0        spec
+
+0 0 -1      center
+0 0 1       normal axisof rev
+10          outer radius/ major radius
+3           inner radius/ minor radius

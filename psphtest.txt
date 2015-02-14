@@ -1,0 +1,62 @@
+8 6 	world xand y
+0 0 3 		viewpoint
+
+20 plane
+8 8 8
+0 0 0
+0 0 0
+
+0 0 8
+0 0 -6
+
+2  shader index
+
+19 		psphere
+1 10 30 		ambient
+0 0 0 	diffuse
+0 0 0 	specular
+
+0 0 -4   sphere location
+2.0 radius
+
+1 shader
+
+19 		psphere
+4 10 4 		ambient
+0 0 0 	diffuse
+0 0 0 	specular
+
+3 5 -4   sphere location
+2.0 radius
+
+2 shader
+
+19 		psphere
+4 10 4 		ambient
+0 0 0 	diffuse
+0 0 0 	specular
+
+3 -5 -4   sphere location
+2.0 radius
+
+2 shader
+
+19 		psphere
+4 10 4 		ambient
+0 0 0 	diffuse
+0 0 0 	specular
+
+-3 -5 -4   sphere location
+2.0 radius
+
+2 shader
+
+19 		psphere
+4 10 4 		ambient
+0 0 0 	diffuse
+0 0 0 	specular
+
+-3 5 -4   sphere location
+2.0 radius
+
+2 shader

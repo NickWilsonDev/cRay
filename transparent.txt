@@ -1,0 +1,24 @@
+8 6           world x and y dims
+0 0 3         viewpoint (x, y, z)
+
+
+13             sphere 5
+0.2 0.2 0.2    amb, diffuse, spec
+2.6 1.4 3.6    amb, diffuse, spec
+1.0 1.0 1.0    amb, diffuse, spec
+
+0 0 -3.0       center
+2              radius
+
+14          infinite plane
+25 15 1
+0 0 0
+0 0 0
+
+0 0 1      normal
+0 0 -10     point
+
+
+10      light
+0 0 10   emissivity
+8 8 -2   location

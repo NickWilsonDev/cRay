@@ -1,0 +1,38 @@
+8 6             world x and y dims
+0 0 3           viewpoint (x, y, z)
+
+13              sphere
+3 7 1           r g b ambient
+0 0 0           r g b diffuse
+0 0 0           r g b specular
+
+0 0 -2          center
+4               radius
+
+13              sphere
+3 3 3           r g b ambient
+0 0 0           r g b diffuse
+0 0 0           r g b specular
+
+-1 1 -1         center
+1               radius
+
+13              sphere
+3 3 3           r g b ambient
+0 0 0           r g b diffuse
+0 0 0           r g b specular
+
+1 1 -1          center
+1               radius
+
+
+13              sphere
+3 3 3           r g b ambient
+0 0 0           r g b diffuse
+0 0 0           r g b specular
+
+0 -1.5 -1       center
+1.5             radius
+
+
+

@@ -1,0 +1,19 @@
+10 10         world x and y dims
+0 0 20       viewpoint (x, y, z)
+
+27           triangle
+0.2 0.2 0.2  ambients
+2.0 2.0 2.0  diffuse
+1.0 1.0 1.0  specular
+
+1 1 -1       point 1
+0 1 -1       point 2
+-2 5 -1      point 3
+
+14           plane
+5 5 15
+0 0 0
+0 0 0
+
+0 0 1        normal
+0 0 -20       point

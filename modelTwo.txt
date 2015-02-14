@@ -1,0 +1,50 @@
+12 9          world x and y dims
+0 0 1         viewpoint (x, y, z)
+
+14            plane
+0 0 4         r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+-2 1 1        normal
+0 0 0         point
+
+14            plane
+4 0 0         r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+-1 1 1        normal
+0 0 0         point
+
+14            plane
+0 4 0         r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+-.5 1 1       normal
+0 0 0         point
+
+14            plane
+0 0 4         r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+2 1 1         normal
+0 0 0         point
+
+14            plane
+4 0 0         r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+1 1 1         normal
+0 0 0         point
+
+14            plane
+0 4 0         r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+0.5 1 1       normal
+0 0 0         point

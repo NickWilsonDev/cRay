@@ -1,0 +1,55 @@
+8 6           world x and y dims
+-4 1 4         viewpoint (x, y, z)
+
+13             sphere
+20.0 0.0 0.0    amb, diffuse, spec
+20.0 20.0 20.0    amb, diffuse, spec
+0.0 0.0 0.0    amb, diffuse, spec
+
+4 2 -4.0       center
+1              radius
+
+22             cylinder
+2 2 2           amb, diff, spec
+20.0 20.0 20.0    amb, diffuse, spec
+0.0 0.0 0.0    amb, diffuse, spec
+
+3.646 2 -3.646  center
+-1 0 1          centerline
+0.707 8         radius height.
+
+22             cylinder
+2 2 2.0    amb, diff, spec
+20.0 20.0 20.0    amb, diffuse, spec
+0.0 0.0 0.0    amb, diffuse, spec
+
+3.646 2 -4.354 center
+-1 0 -1        centerline
+0.707 8            radius height.
+
+22             cylinder
+2 2 2.0    amb, diff, spec
+20.0 20.0 20.0    amb, diffuse, spec
+0.0 0.0 0.0    amb, diffuse, spec
+
+4.354 2 -3.646 center
+1 0 1          centerline
+0.707 8            radius height.
+
+22             cylinder
+2 2 2.0    amb, diff, spec
+20.0 20.0 20.0    amb, diffuse, spec
+0.0 0.0 0.0    amb, diffuse, spec
+
+4.354 2 -4.354 center
+1 0 -1         centerline
+0.707 8            radius height.
+
+10             light
+12 12 12       emissivity
+4 3 5          center
+
+10             light
+12 12 12       emissivity
+4 15 -5        center
+

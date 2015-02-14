@@ -1,0 +1,44 @@
+10 10         world x and y dims
+0 0 1       viewpoint (x, y, z)
+
+13          sphere
+0 0 10
+0 10 2 
+0 10 0
+
+0 .6 -2.8
+1.8
+
+22              cylander
+10.2 1.2 1.2     ambient
+1 1 10
+1 1 10
+
+4 3 -4          centerpoint of finite cylinder base
+0 0 0           centerline vector
+2 10             radius and height
+
+22              cylander
+10.2 1.2 10.2     ambient
+1 1 12
+4 1 1
+
+-4 -3 -4          centerpoint of finite cylinder base
+1 2 -4           centerline vector
+2 8             radius and height
+
+10              point light
+10 7 55          rgb emiss
+8 6 -3          center
+
+
+
+
+
+
+
+
+
+
+
+

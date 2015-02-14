@@ -1,0 +1,19 @@
+15 15      8 6         world x and y dims
+0 0 5         viewpoint (x, y, z)
+
+14            plane
+2 2 2         r g b ambient
+1 6 6         r g b diffuse
+0 0 0         r g b specular
+
+0 1  0        normal
+0 -4 0        point
+
+28            texturedsphere
+1 1 1         r g b ambient
+3 3 4         r g b diffuse
+0 0 0         r g b specular
+
+0 0 0        center
+3.5           radius
+earth2.ppm

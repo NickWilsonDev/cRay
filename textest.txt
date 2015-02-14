@@ -1,0 +1,20 @@
+8 6         world x and y dims
+0 0 3       viewpoint (x, y, z)
+
+17           textured plane
+0 0 0  r g b ambient
+0 0 0  r g b diffuse
+0 0 0        r g b specular
+
+1 0 1        normal
+-5 -5 -3.5   point
+
+1 0.5 0        xdir
+15 15          width height
+
+earth2.ppm     name of texture file
+1            tile mode (1 means fit mode, 2 means tile repeatedly)
+
+10           light
+4 4 4        emissivity
+8 6 -2       location

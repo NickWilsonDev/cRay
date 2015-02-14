@@ -1,0 +1,180 @@
+10 8          world x and y dims
+0 0 25        viewpoint (x, y, z)
+
+14            plane
+3 1 4 
+0 0 0
+0 0 0
+
+0 0 -1        point
+0 0 0         normal
+
+13            sphere
+20 20 0       r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+0 0 0         center
+2             radius
+
+13            sphere
+3 1 4         r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+0 0 3.5       center
+1.25          radius
+
+13            sphere
+20 20 0       r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+0 0 6         center
+.75           radius
+
+
+13            sphere
+20 20 20      r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+0 0 7.5       center
+.55           radius ----------------------------
+
+13            sphere
+3 1 4         r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+0 0 8.5       center
+.3            radius ----------------------------
+
+
+13            sphere
+20 20 0       r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+1 1 0         center
+2             radius
+
+13            sphere
+3 1 4         r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+.8 .8 3.5     center
+1.25          radius
+
+13            sphere
+20 20 0       r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+0.65 0.65 6   center
+.75           radius
+
+13            sphere
+3 1 4         r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+0.6 0.6 7.5   center
+.375          radius ----------------------------
+
+13            sphere
+20 20 0       r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+-1 1 0        center
+2             radius
+
+13            sphere
+3 1 4         r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+-.8 .8 3.5    center
+1.25          radius
+
+13            sphere
+20 20 0       r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+-0.65 0.65 6  center
+.75           radius
+
+13            sphere
+3 1 4         r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+-0.6 0.6 7.5  center
+.375          radius ----------------------------
+
+13            sphere
+20 20 0       r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+-1 -1 0       center
+2             radius
+
+13            sphere
+3 1 4         r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+-.8 -.8 3.5   center
+1.25          radius
+
+13            sphere
+20 20 0       r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+-0.65 -0.65 6 center
+.75           radius
+
+13            sphere
+3 1 4         r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+-0.6 -0.6 7.5 center
+.375          radius ----------------------------
+
+13            sphere
+20 20 0       r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+1 -1 0        center
+2             radius
+
+13            sphere
+3 1 4         r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+.8 -.8 3.5    center
+1.25          radius
+
+13            sphere
+20 20 0       r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+0.65 -0.65 6  center
+.75           radius
+
+13            sphere
+3 1 4         r g b ambient
+0 0 0         r g b diffuse
+0 0 0         r g b specular
+
+0.6 -0.6 7.5  center
+.375          radius ----------------------------

@@ -1,0 +1,3042 @@
+Window size in pixels 
+    10     10    
+
+Window size in world coordinates 
+     8      6 
+
+Location of Viewpoint 
+   0.0    2.0    3.0
+
+Dumping object of type Light 
+
+Light data 
+emissivity -    6.000   6.000  16.000
+center     -    0.000   0.000   5.000
+
+Dumping object of type Light 
+
+Light data 
+emissivity -    2.000   6.000   6.000
+center     -    0.000  10.000  -5.000
+
+Dumping object of type Light 
+
+Light data 
+emissivity -    6.000   6.000  26.000
+center     -    0.000  11.000  -3.000
+
+Dumping object of type Light 
+
+Light data 
+emissivity -   16.000   6.000   6.000
+center     -    0.000  11.000  -3.000
+
+Dumping object of type Tiled Plane 
+Material data -
+Ambient  -    0.200   0.200   0.200
+Diffuse  -    5.000   5.000   4.000
+Specular -    0.000   0.000   0.000
+
+Plane data 
+normal -    0.000   1.000   0.000
+point  -    0.000  -4.000   0.000
+X  axis    -    1.000   0.000   1.000
+Dimensions -    1.000   1.000
+Material data -
+Ambient  -    0.200   0.200   0.200
+Diffuse  -    0.000   0.000   0.200
+Specular -    0.000   0.000   0.000
+Unitized x direction        0.707   0.000   0.707
+Projected x direction       0.707   0.000   0.707
+Unit/proj x direction       0.707   0.000   0.707
+
+Dumping object of type Plane 
+Material data -
+Ambient  -    0.200   0.200   0.200
+Diffuse  -    3.000   0.000   2.300
+Specular -    2.000   2.000   2.000
+
+Plane data 
+normal -    0.000   0.000   1.000
+point  -   -4.000   0.000  -5.500
+
+PIX:  ROW = 0 COL = 0 - WRL ( -4.0,  -3.0) - Original hit point      -4.800  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.818  -2.970  -4.000
+X index                996.182
+Y index                997.030
+Original hit point      -4.800  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.818  -2.970  -4.000
+X index                996.182
+Y index                997.030
+Original hit point      -4.800  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.818  -2.970  -4.000
+X index                996.182
+Y index                997.030
+Original hit point      -4.800  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.818  -2.970  -4.000
+X index                996.182
+Y index                997.030
+Original hit point      -4.800  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.818  -2.970  -4.000
+X index                996.182
+Y index                997.030
+Original hit point      -4.800  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.818  -2.970  -4.000
+X index                996.182
+Y index                997.030
+
+PIX:  ROW = 1 COL = 0 - WRL ( -3.1,  -3.0) - Original hit point      -3.733  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.064  -2.216  -4.000
+X index                996.936
+Y index                997.784
+Original hit point      -3.733  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.064  -2.216  -4.000
+X index                996.936
+Y index                997.784
+Original hit point      -3.733  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.064  -2.216  -4.000
+X index                996.936
+Y index                997.784
+Original hit point      -3.733  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.064  -2.216  -4.000
+X index                996.936
+Y index                997.784
+Original hit point      -3.733  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.064  -2.216  -4.000
+X index                996.936
+Y index                997.784
+Original hit point      -3.733  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.064  -2.216  -4.000
+X index                996.936
+Y index                997.784
+
+PIX:  ROW = 2 COL = 0 - WRL ( -2.2,  -3.0) - Original hit point      -2.667  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.310  -1.461  -4.000
+X index                997.690
+Y index                998.539
+Original hit point      -2.667  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.310  -1.461  -4.000
+X index                997.690
+Y index                998.539
+Original hit point      -2.667  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.310  -1.461  -4.000
+X index                997.690
+Y index                998.539
+Original hit point      -2.667  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.310  -1.461  -4.000
+X index                997.690
+Y index                998.539
+Original hit point      -2.667  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.310  -1.461  -4.000
+X index                997.690
+Y index                998.539
+Original hit point      -2.667  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.310  -1.461  -4.000
+X index                997.690
+Y index                998.539
+
+PIX:  ROW = 3 COL = 0 - WRL ( -1.3,  -3.0) - Original hit point      -1.600  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.556  -0.707  -4.000
+X index                998.444
+Y index                999.293
+Original hit point      -1.600  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.556  -0.707  -4.000
+X index                998.444
+Y index                999.293
+Original hit point      -1.600  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.556  -0.707  -4.000
+X index                998.444
+Y index                999.293
+Original hit point      -1.600  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.556  -0.707  -4.000
+X index                998.444
+Y index                999.293
+Original hit point      -1.600  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.556  -0.707  -4.000
+X index                998.444
+Y index                999.293
+Original hit point      -1.600  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.556  -0.707  -4.000
+X index                998.444
+Y index                999.293
+
+PIX:  ROW = 4 COL = 0 - WRL ( -0.4,  -3.0) - Original hit point      -0.533  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.801   0.047  -4.000
+X index                999.199
+Y index               1000.047
+Original hit point      -0.533  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.801   0.047  -4.000
+X index                999.199
+Y index               1000.047
+Original hit point      -0.533  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.801   0.047  -4.000
+X index                999.199
+Y index               1000.047
+Original hit point      -0.533  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.801   0.047  -4.000
+X index                999.199
+Y index               1000.047
+Original hit point      -0.533  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.801   0.047  -4.000
+X index                999.199
+Y index               1000.047
+Original hit point      -0.533  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.801   0.047  -4.000
+X index                999.199
+Y index               1000.047
+
+PIX:  ROW = 5 COL = 0 - WRL (  0.4,  -3.0) - Original hit point       0.533  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.047   0.801  -4.000
+X index                999.953
+Y index               1000.801
+Original hit point       0.533  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.047   0.801  -4.000
+X index                999.953
+Y index               1000.801
+Original hit point       0.533  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.047   0.801  -4.000
+X index                999.953
+Y index               1000.801
+Original hit point       0.533  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.047   0.801  -4.000
+X index                999.953
+Y index               1000.801
+Original hit point       0.533  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.047   0.801  -4.000
+X index                999.953
+Y index               1000.801
+Original hit point       0.533  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.047   0.801  -4.000
+X index                999.953
+Y index               1000.801
+
+PIX:  ROW = 6 COL = 0 - WRL (  1.3,  -3.0) - Original hit point       1.600  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       0.707   1.556  -4.000
+X index               1000.707
+Y index               1001.556
+Original hit point       1.600  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       0.707   1.556  -4.000
+X index               1000.707
+Y index               1001.556
+Original hit point       1.600  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       0.707   1.556  -4.000
+X index               1000.707
+Y index               1001.556
+Original hit point       1.600  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       0.707   1.556  -4.000
+X index               1000.707
+Y index               1001.556
+Original hit point       1.600  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       0.707   1.556  -4.000
+X index               1000.707
+Y index               1001.556
+Original hit point       1.600  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       0.707   1.556  -4.000
+X index               1000.707
+Y index               1001.556
+
+PIX:  ROW = 7 COL = 0 - WRL (  2.2,  -3.0) - Original hit point       2.667  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.461   2.310  -4.000
+X index               1001.461
+Y index               1002.310
+Original hit point       2.667  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.461   2.310  -4.000
+X index               1001.461
+Y index               1002.310
+Original hit point       2.667  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.461   2.310  -4.000
+X index               1001.461
+Y index               1002.310
+Original hit point       2.667  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.461   2.310  -4.000
+X index               1001.461
+Y index               1002.310
+Original hit point       2.667  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.461   2.310  -4.000
+X index               1001.461
+Y index               1002.310
+Original hit point       2.667  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.461   2.310  -4.000
+X index               1001.461
+Y index               1002.310
+
+PIX:  ROW = 8 COL = 0 - WRL (  3.1,  -3.0) - Original hit point       3.733  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.216   3.064  -4.000
+X index               1002.216
+Y index               1003.064
+Original hit point       3.733  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.216   3.064  -4.000
+X index               1002.216
+Y index               1003.064
+Original hit point       3.733  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.216   3.064  -4.000
+X index               1002.216
+Y index               1003.064
+Original hit point       3.733  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.216   3.064  -4.000
+X index               1002.216
+Y index               1003.064
+Original hit point       3.733  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.216   3.064  -4.000
+X index               1002.216
+Y index               1003.064
+Original hit point       3.733  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.216   3.064  -4.000
+X index               1002.216
+Y index               1003.064
+
+PIX:  ROW = 9 COL = 0 - WRL (  4.0,  -3.0) - Original hit point       4.800  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.970   3.818  -4.000
+X index               1002.970
+Y index               1003.818
+Original hit point       4.800  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.970   3.818  -4.000
+X index               1002.970
+Y index               1003.818
+Original hit point       4.800  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.970   3.818  -4.000
+X index               1002.970
+Y index               1003.818
+Original hit point       4.800  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.970   3.818  -4.000
+X index               1002.970
+Y index               1003.818
+Original hit point       4.800  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.970   3.818  -4.000
+X index               1002.970
+Y index               1003.818
+Original hit point       4.800  -4.000  -0.600
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.970   3.818  -4.000
+X index               1002.970
+Y index               1003.818
+
+PIX:  ROW = 0 COL = 1 - WRL ( -4.0,  -2.3) - Original hit point      -5.538  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -4.732  -3.100  -4.000
+X index                995.268
+Y index                996.900
+Original hit point      -5.538  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -4.732  -3.100  -4.000
+X index                995.268
+Y index                996.900
+Original hit point      -5.538  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -4.732  -3.100  -4.000
+X index                995.268
+Y index                996.900
+Original hit point      -5.538  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -4.732  -3.100  -4.000
+X index                995.268
+Y index                996.900
+Original hit point      -5.538  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -4.732  -3.100  -4.000
+X index                995.268
+Y index                996.900
+Original hit point      -5.538  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -4.732  -3.100  -4.000
+X index                995.268
+Y index                996.900
+
+PIX:  ROW = 1 COL = 1 - WRL ( -3.1,  -2.3) - Original hit point      -4.308  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.862  -2.230  -4.000
+X index                996.138
+Y index                997.770
+Original hit point      -4.308  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.862  -2.230  -4.000
+X index                996.138
+Y index                997.770
+Original hit point      -4.308  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.862  -2.230  -4.000
+X index                996.138
+Y index                997.770
+Original hit point      -4.308  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.862  -2.230  -4.000
+X index                996.138
+Y index                997.770
+Original hit point      -4.308  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.862  -2.230  -4.000
+X index                996.138
+Y index                997.770
+Original hit point      -4.308  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.862  -2.230  -4.000
+X index                996.138
+Y index                997.770
+
+PIX:  ROW = 2 COL = 1 - WRL ( -2.2,  -2.3) - Original hit point      -3.077  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.992  -1.360  -4.000
+X index                997.008
+Y index                998.640
+Original hit point      -3.077  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.992  -1.360  -4.000
+X index                997.008
+Y index                998.640
+Original hit point      -3.077  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.992  -1.360  -4.000
+X index                997.008
+Y index                998.640
+Original hit point      -3.077  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.992  -1.360  -4.000
+X index                997.008
+Y index                998.640
+Original hit point      -3.077  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.992  -1.360  -4.000
+X index                997.008
+Y index                998.640
+Original hit point      -3.077  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.992  -1.360  -4.000
+X index                997.008
+Y index                998.640
+
+PIX:  ROW = 3 COL = 1 - WRL ( -1.3,  -2.3) - Original hit point      -1.846  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.121  -0.490  -4.000
+X index                997.879
+Y index                999.510
+Original hit point      -1.846  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.121  -0.490  -4.000
+X index                997.879
+Y index                999.510
+Original hit point      -1.846  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.121  -0.490  -4.000
+X index                997.879
+Y index                999.510
+Original hit point      -1.846  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.121  -0.490  -4.000
+X index                997.879
+Y index                999.510
+Original hit point      -1.846  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.121  -0.490  -4.000
+X index                997.879
+Y index                999.510
+Original hit point      -1.846  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.121  -0.490  -4.000
+X index                997.879
+Y index                999.510
+
+PIX:  ROW = 4 COL = 1 - WRL ( -0.4,  -2.3) - Original hit point      -0.615  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.251   0.381  -4.000
+X index                998.749
+Y index               1000.381
+Original hit point      -0.615  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.251   0.381  -4.000
+X index                998.749
+Y index               1000.381
+Original hit point      -0.615  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.251   0.381  -4.000
+X index                998.749
+Y index               1000.381
+Original hit point      -0.615  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.251   0.381  -4.000
+X index                998.749
+Y index               1000.381
+Original hit point      -0.615  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.251   0.381  -4.000
+X index                998.749
+Y index               1000.381
+Original hit point      -0.615  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.251   0.381  -4.000
+X index                998.749
+Y index               1000.381
+
+PIX:  ROW = 5 COL = 1 - WRL (  0.4,  -2.3) - Original hit point       0.615  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.381   1.251  -4.000
+X index                999.619
+Y index               1001.251
+Original hit point       0.615  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.381   1.251  -4.000
+X index                999.619
+Y index               1001.251
+Original hit point       0.615  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.381   1.251  -4.000
+X index                999.619
+Y index               1001.251
+Original hit point       0.615  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.381   1.251  -4.000
+X index                999.619
+Y index               1001.251
+Original hit point       0.615  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.381   1.251  -4.000
+X index                999.619
+Y index               1001.251
+Original hit point       0.615  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.381   1.251  -4.000
+X index                999.619
+Y index               1001.251
+
+PIX:  ROW = 6 COL = 1 - WRL (  1.3,  -2.3) - Original hit point       1.846  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       0.490   2.121  -4.000
+X index               1000.490
+Y index               1002.121
+Original hit point       1.846  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       0.490   2.121  -4.000
+X index               1000.490
+Y index               1002.121
+Original hit point       1.846  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       0.490   2.121  -4.000
+X index               1000.490
+Y index               1002.121
+Original hit point       1.846  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       0.490   2.121  -4.000
+X index               1000.490
+Y index               1002.121
+Original hit point       1.846  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       0.490   2.121  -4.000
+X index               1000.490
+Y index               1002.121
+Original hit point       1.846  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       0.490   2.121  -4.000
+X index               1000.490
+Y index               1002.121
+
+PIX:  ROW = 7 COL = 1 - WRL (  2.2,  -2.3) - Original hit point       3.077  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.360   2.992  -4.000
+X index               1001.360
+Y index               1002.992
+Original hit point       3.077  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.360   2.992  -4.000
+X index               1001.360
+Y index               1002.992
+Original hit point       3.077  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.360   2.992  -4.000
+X index               1001.360
+Y index               1002.992
+Original hit point       3.077  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.360   2.992  -4.000
+X index               1001.360
+Y index               1002.992
+Original hit point       3.077  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.360   2.992  -4.000
+X index               1001.360
+Y index               1002.992
+Original hit point       3.077  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.360   2.992  -4.000
+X index               1001.360
+Y index               1002.992
+
+PIX:  ROW = 8 COL = 1 - WRL (  3.1,  -2.3) - Original hit point       4.308  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.230   3.862  -4.000
+X index               1002.230
+Y index               1003.862
+Original hit point       4.308  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.230   3.862  -4.000
+X index               1002.230
+Y index               1003.862
+Original hit point       4.308  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.230   3.862  -4.000
+X index               1002.230
+Y index               1003.862
+Original hit point       4.308  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.230   3.862  -4.000
+X index               1002.230
+Y index               1003.862
+Original hit point       4.308  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.230   3.862  -4.000
+X index               1002.230
+Y index               1003.862
+Original hit point       4.308  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.230   3.862  -4.000
+X index               1002.230
+Y index               1003.862
+
+PIX:  ROW = 9 COL = 1 - WRL (  4.0,  -2.3) - Original hit point       5.538  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.100   4.732  -4.000
+X index               1003.100
+Y index               1004.732
+Original hit point       5.538  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.100   4.732  -4.000
+X index               1003.100
+Y index               1004.732
+Original hit point       5.538  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.100   4.732  -4.000
+X index               1003.100
+Y index               1004.732
+Original hit point       5.538  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.100   4.732  -4.000
+X index               1003.100
+Y index               1004.732
+Original hit point       5.538  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.100   4.732  -4.000
+X index               1003.100
+Y index               1004.732
+Original hit point       5.538  -4.000  -1.154
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.100   4.732  -4.000
+X index               1003.100
+Y index               1004.732
+
+PIX:  ROW = 0 COL = 2 - WRL ( -4.0,  -1.7) - Original hit point      -6.545  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -5.978  -3.278  -4.000
+X index                994.022
+Y index                996.722
+Original hit point      -6.545  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -5.978  -3.278  -4.000
+X index                994.022
+Y index                996.722
+Original hit point      -6.545  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -5.978  -3.278  -4.000
+X index                994.022
+Y index                996.722
+Original hit point      -6.545  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -5.978  -3.278  -4.000
+X index                994.022
+Y index                996.722
+Original hit point      -6.545  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -5.978  -3.278  -4.000
+X index                994.022
+Y index                996.722
+Original hit point      -6.545  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -5.978  -3.278  -4.000
+X index                994.022
+Y index                996.722
+
+PIX:  ROW = 1 COL = 2 - WRL ( -3.1,  -1.7) - Original hit point      -5.091  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -4.950  -2.250  -4.000
+X index                995.050
+Y index                997.750
+Original hit point      -5.091  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -4.950  -2.250  -4.000
+X index                995.050
+Y index                997.750
+Original hit point      -5.091  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -4.950  -2.250  -4.000
+X index                995.050
+Y index                997.750
+Original hit point      -5.091  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -4.950  -2.250  -4.000
+X index                995.050
+Y index                997.750
+Original hit point      -5.091  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -4.950  -2.250  -4.000
+X index                995.050
+Y index                997.750
+Original hit point      -5.091  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -4.950  -2.250  -4.000
+X index                995.050
+Y index                997.750
+
+PIX:  ROW = 2 COL = 2 - WRL ( -2.2,  -1.7) - Original hit point      -3.636  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.921  -1.221  -4.000
+X index                996.079
+Y index                998.779
+Original hit point      -3.636  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.921  -1.221  -4.000
+X index                996.079
+Y index                998.779
+Original hit point      -3.636  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.921  -1.221  -4.000
+X index                996.079
+Y index                998.779
+Original hit point      -3.636  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.921  -1.221  -4.000
+X index                996.079
+Y index                998.779
+Original hit point      -3.636  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.921  -1.221  -4.000
+X index                996.079
+Y index                998.779
+Original hit point      -3.636  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.921  -1.221  -4.000
+X index                996.079
+Y index                998.779
+
+PIX:  ROW = 3 COL = 2 - WRL ( -1.3,  -1.7) - Original hit point      -2.182  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.893  -0.193  -4.000
+X index                997.107
+Y index                999.807
+Original hit point      -2.182  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.893  -0.193  -4.000
+X index                997.107
+Y index                999.807
+Original hit point      -2.182  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.893  -0.193  -4.000
+X index                997.107
+Y index                999.807
+Original hit point      -2.182  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.893  -0.193  -4.000
+X index                997.107
+Y index                999.807
+Original hit point      -2.182  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.893  -0.193  -4.000
+X index                997.107
+Y index                999.807
+Original hit point      -2.182  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.893  -0.193  -4.000
+X index                997.107
+Y index                999.807
+
+PIX:  ROW = 4 COL = 2 - WRL ( -0.4,  -1.7) - Original hit point      -0.727  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.864   0.836  -4.000
+X index                998.136
+Y index               1000.836
+Original hit point      -0.727  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.864   0.836  -4.000
+X index                998.136
+Y index               1000.836
+Original hit point      -0.727  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.864   0.836  -4.000
+X index                998.136
+Y index               1000.836
+Original hit point      -0.727  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.864   0.836  -4.000
+X index                998.136
+Y index               1000.836
+Original hit point      -0.727  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.864   0.836  -4.000
+X index                998.136
+Y index               1000.836
+Original hit point      -0.727  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.864   0.836  -4.000
+X index                998.136
+Y index               1000.836
+
+PIX:  ROW = 5 COL = 2 - WRL (  0.4,  -1.7) - Original hit point       0.727  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.836   1.864  -4.000
+X index                999.164
+Y index               1001.864
+Original hit point       0.727  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.836   1.864  -4.000
+X index                999.164
+Y index               1001.864
+Original hit point       0.727  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.836   1.864  -4.000
+X index                999.164
+Y index               1001.864
+Original hit point       0.727  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.836   1.864  -4.000
+X index                999.164
+Y index               1001.864
+Original hit point       0.727  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.836   1.864  -4.000
+X index                999.164
+Y index               1001.864
+Original hit point       0.727  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.836   1.864  -4.000
+X index                999.164
+Y index               1001.864
+
+PIX:  ROW = 6 COL = 2 - WRL (  1.3,  -1.7) - Original hit point       2.182  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       0.193   2.893  -4.000
+X index               1000.193
+Y index               1002.893
+Original hit point       2.182  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       0.193   2.893  -4.000
+X index               1000.193
+Y index               1002.893
+Original hit point       2.182  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       0.193   2.893  -4.000
+X index               1000.193
+Y index               1002.893
+Original hit point       2.182  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       0.193   2.893  -4.000
+X index               1000.193
+Y index               1002.893
+Original hit point       2.182  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       0.193   2.893  -4.000
+X index               1000.193
+Y index               1002.893
+Original hit point       2.182  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       0.193   2.893  -4.000
+X index               1000.193
+Y index               1002.893
+
+PIX:  ROW = 7 COL = 2 - WRL (  2.2,  -1.7) - Original hit point       3.636  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.221   3.921  -4.000
+X index               1001.221
+Y index               1003.921
+Original hit point       3.636  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.221   3.921  -4.000
+X index               1001.221
+Y index               1003.921
+Original hit point       3.636  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.221   3.921  -4.000
+X index               1001.221
+Y index               1003.921
+Original hit point       3.636  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.221   3.921  -4.000
+X index               1001.221
+Y index               1003.921
+Original hit point       3.636  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.221   3.921  -4.000
+X index               1001.221
+Y index               1003.921
+Original hit point       3.636  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.221   3.921  -4.000
+X index               1001.221
+Y index               1003.921
+
+PIX:  ROW = 8 COL = 2 - WRL (  3.1,  -1.7) - Original hit point       5.091  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.250   4.950  -4.000
+X index               1002.250
+Y index               1004.950
+Original hit point       5.091  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.250   4.950  -4.000
+X index               1002.250
+Y index               1004.950
+Original hit point       5.091  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.250   4.950  -4.000
+X index               1002.250
+Y index               1004.950
+Original hit point       5.091  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.250   4.950  -4.000
+X index               1002.250
+Y index               1004.950
+Original hit point       5.091  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.250   4.950  -4.000
+X index               1002.250
+Y index               1004.950
+Original hit point       5.091  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.250   4.950  -4.000
+X index               1002.250
+Y index               1004.950
+
+PIX:  ROW = 9 COL = 2 - WRL (  4.0,  -1.7) - Original hit point       6.545  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.278   5.978  -4.000
+X index               1003.278
+Y index               1005.978
+Original hit point       6.545  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.278   5.978  -4.000
+X index               1003.278
+Y index               1005.978
+Original hit point       6.545  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.278   5.978  -4.000
+X index               1003.278
+Y index               1005.978
+Original hit point       6.545  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.278   5.978  -4.000
+X index               1003.278
+Y index               1005.978
+Original hit point       6.545  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.278   5.978  -4.000
+X index               1003.278
+Y index               1005.978
+Original hit point       6.545  -4.000  -1.909
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.278   5.978  -4.000
+X index               1003.278
+Y index               1005.978
+
+PIX:  ROW = 0 COL = 3 - WRL ( -4.0,  -1.0) - Original hit point      -8.000  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -7.778  -3.536  -4.000
+X index                992.222
+Y index                996.464
+Original hit point      -8.000  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -7.778  -3.536  -4.000
+X index                992.222
+Y index                996.464
+Original hit point      -8.000  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -7.778  -3.536  -4.000
+X index                992.222
+Y index                996.464
+Original hit point      -8.000  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -7.778  -3.536  -4.000
+X index                992.222
+Y index                996.464
+Original hit point      -8.000  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -7.778  -3.536  -4.000
+X index                992.222
+Y index                996.464
+Original hit point      -8.000  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -7.778  -3.536  -4.000
+X index                992.222
+Y index                996.464
+
+PIX:  ROW = 1 COL = 3 - WRL ( -3.1,  -1.0) - Original hit point      -6.222  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -6.521  -2.278  -4.000
+X index                993.479
+Y index                997.722
+Original hit point      -6.222  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -6.521  -2.278  -4.000
+X index                993.479
+Y index                997.722
+Original hit point      -6.222  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -6.521  -2.278  -4.000
+X index                993.479
+Y index                997.722
+Original hit point      -6.222  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -6.521  -2.278  -4.000
+X index                993.479
+Y index                997.722
+Original hit point      -6.222  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -6.521  -2.278  -4.000
+X index                993.479
+Y index                997.722
+Original hit point      -6.222  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -6.521  -2.278  -4.000
+X index                993.479
+Y index                997.722
+
+PIX:  ROW = 2 COL = 3 - WRL ( -2.2,  -1.0) - Original hit point      -4.444  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -5.264  -1.021  -4.000
+X index                994.736
+Y index                998.979
+Original hit point      -4.444  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -5.264  -1.021  -4.000
+X index                994.736
+Y index                998.979
+Original hit point      -4.444  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -5.264  -1.021  -4.000
+X index                994.736
+Y index                998.979
+Original hit point      -4.444  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -5.264  -1.021  -4.000
+X index                994.736
+Y index                998.979
+Original hit point      -4.444  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -5.264  -1.021  -4.000
+X index                994.736
+Y index                998.979
+Original hit point      -4.444  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -5.264  -1.021  -4.000
+X index                994.736
+Y index                998.979
+
+PIX:  ROW = 3 COL = 3 - WRL ( -1.3,  -1.0) - Original hit point      -2.667  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -4.007   0.236  -4.000
+X index                995.993
+Y index               1000.236
+Original hit point      -2.667  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -4.007   0.236  -4.000
+X index                995.993
+Y index               1000.236
+Original hit point      -2.667  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -4.007   0.236  -4.000
+X index                995.993
+Y index               1000.236
+Original hit point      -2.667  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -4.007   0.236  -4.000
+X index                995.993
+Y index               1000.236
+Original hit point      -2.667  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -4.007   0.236  -4.000
+X index                995.993
+Y index               1000.236
+Original hit point      -2.667  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -4.007   0.236  -4.000
+X index                995.993
+Y index               1000.236
+
+PIX:  ROW = 4 COL = 3 - WRL ( -0.4,  -1.0) - Original hit point      -0.889  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.750   1.493  -4.000
+X index                997.250
+Y index               1001.493
+Original hit point      -0.889  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.750   1.493  -4.000
+X index                997.250
+Y index               1001.493
+Original hit point      -0.889  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.750   1.493  -4.000
+X index                997.250
+Y index               1001.493
+Original hit point      -0.889  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.750   1.493  -4.000
+X index                997.250
+Y index               1001.493
+Original hit point      -0.889  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.750   1.493  -4.000
+X index                997.250
+Y index               1001.493
+Original hit point      -0.889  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.750   1.493  -4.000
+X index                997.250
+Y index               1001.493
+
+PIX:  ROW = 5 COL = 3 - WRL (  0.4,  -1.0) - Original hit point       0.889  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.493   2.750  -4.000
+X index                998.507
+Y index               1002.750
+Original hit point       0.889  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.493   2.750  -4.000
+X index                998.507
+Y index               1002.750
+Original hit point       0.889  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.493   2.750  -4.000
+X index                998.507
+Y index               1002.750
+Original hit point       0.889  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.493   2.750  -4.000
+X index                998.507
+Y index               1002.750
+Original hit point       0.889  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.493   2.750  -4.000
+X index                998.507
+Y index               1002.750
+Original hit point       0.889  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.493   2.750  -4.000
+X index                998.507
+Y index               1002.750
+
+PIX:  ROW = 6 COL = 3 - WRL (  1.3,  -1.0) - Original hit point       2.667  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.236   4.007  -4.000
+X index                999.764
+Y index               1004.007
+Original hit point       2.667  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.236   4.007  -4.000
+X index                999.764
+Y index               1004.007
+Original hit point       2.667  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.236   4.007  -4.000
+X index                999.764
+Y index               1004.007
+Original hit point       2.667  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.236   4.007  -4.000
+X index                999.764
+Y index               1004.007
+Original hit point       2.667  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.236   4.007  -4.000
+X index                999.764
+Y index               1004.007
+Original hit point       2.667  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.236   4.007  -4.000
+X index                999.764
+Y index               1004.007
+
+PIX:  ROW = 7 COL = 3 - WRL (  2.2,  -1.0) - Original hit point       4.444  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.021   5.264  -4.000
+X index               1001.021
+Y index               1005.264
+Original hit point       4.444  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.021   5.264  -4.000
+X index               1001.021
+Y index               1005.264
+Original hit point       4.444  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.021   5.264  -4.000
+X index               1001.021
+Y index               1005.264
+Original hit point       4.444  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.021   5.264  -4.000
+X index               1001.021
+Y index               1005.264
+Original hit point       4.444  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.021   5.264  -4.000
+X index               1001.021
+Y index               1005.264
+Original hit point       4.444  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.021   5.264  -4.000
+X index               1001.021
+Y index               1005.264
+
+PIX:  ROW = 8 COL = 3 - WRL (  3.1,  -1.0) - Original hit point       6.222  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.278   6.521  -4.000
+X index               1002.278
+Y index               1006.521
+Original hit point       6.222  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.278   6.521  -4.000
+X index               1002.278
+Y index               1006.521
+Original hit point       6.222  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.278   6.521  -4.000
+X index               1002.278
+Y index               1006.521
+Original hit point       6.222  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.278   6.521  -4.000
+X index               1002.278
+Y index               1006.521
+Original hit point       6.222  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.278   6.521  -4.000
+X index               1002.278
+Y index               1006.521
+Original hit point       6.222  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.278   6.521  -4.000
+X index               1002.278
+Y index               1006.521
+
+PIX:  ROW = 9 COL = 3 - WRL (  4.0,  -1.0) - Original hit point       8.000  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.536   7.778  -4.000
+X index               1003.536
+Y index               1007.778
+Original hit point       8.000  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.536   7.778  -4.000
+X index               1003.536
+Y index               1007.778
+Original hit point       8.000  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.536   7.778  -4.000
+X index               1003.536
+Y index               1007.778
+Original hit point       8.000  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.536   7.778  -4.000
+X index               1003.536
+Y index               1007.778
+Original hit point       8.000  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.536   7.778  -4.000
+X index               1003.536
+Y index               1007.778
+Original hit point       8.000  -4.000  -3.000
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.536   7.778  -4.000
+X index               1003.536
+Y index               1007.778
+
+PIX:  ROW = 0 COL = 4 - WRL ( -4.0,  -0.3) - Original hit point     -10.286  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point     -10.607  -3.940  -4.000
+X index                989.393
+Y index                996.060
+Original hit point     -10.286  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point     -10.607  -3.940  -4.000
+X index                989.393
+Y index                996.060
+Original hit point     -10.286  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point     -10.607  -3.940  -4.000
+X index                989.393
+Y index                996.060
+Original hit point     -10.286  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point     -10.607  -3.940  -4.000
+X index                989.393
+Y index                996.060
+Original hit point     -10.286  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point     -10.607  -3.940  -4.000
+X index                989.393
+Y index                996.060
+Original hit point     -10.286  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point     -10.607  -3.940  -4.000
+X index                989.393
+Y index                996.060
+
+PIX:  ROW = 1 COL = 4 - WRL ( -3.1,  -0.3) - Original hit point      -8.000  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -8.990  -2.323  -4.000
+X index                991.010
+Y index                997.677
+Original hit point      -8.000  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -8.990  -2.323  -4.000
+X index                991.010
+Y index                997.677
+Original hit point      -8.000  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -8.990  -2.323  -4.000
+X index                991.010
+Y index                997.677
+Original hit point      -8.000  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -8.990  -2.323  -4.000
+X index                991.010
+Y index                997.677
+Original hit point      -8.000  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -8.990  -2.323  -4.000
+X index                991.010
+Y index                997.677
+Original hit point      -8.000  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -8.990  -2.323  -4.000
+X index                991.010
+Y index                997.677
+
+PIX:  ROW = 2 COL = 4 - WRL ( -2.2,  -0.3) - Original hit point      -5.714  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -7.374  -0.707  -4.000
+X index                992.626
+Y index                999.293
+Original hit point      -5.714  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -7.374  -0.707  -4.000
+X index                992.626
+Y index                999.293
+Original hit point      -5.714  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -7.374  -0.707  -4.000
+X index                992.626
+Y index                999.293
+Original hit point      -5.714  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -7.374  -0.707  -4.000
+X index                992.626
+Y index                999.293
+Original hit point      -5.714  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -7.374  -0.707  -4.000
+X index                992.626
+Y index                999.293
+Original hit point      -5.714  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -7.374  -0.707  -4.000
+X index                992.626
+Y index                999.293
+
+PIX:  ROW = 3 COL = 4 - WRL ( -1.3,  -0.3) - Original hit point      -3.429  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -5.758   0.909  -4.000
+X index                994.242
+Y index               1000.909
+Original hit point      -3.429  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -5.758   0.909  -4.000
+X index                994.242
+Y index               1000.909
+Original hit point      -3.429  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -5.758   0.909  -4.000
+X index                994.242
+Y index               1000.909
+Original hit point      -3.429  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -5.758   0.909  -4.000
+X index                994.242
+Y index               1000.909
+Original hit point      -3.429  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -5.758   0.909  -4.000
+X index                994.242
+Y index               1000.909
+Original hit point      -3.429  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -5.758   0.909  -4.000
+X index                994.242
+Y index               1000.909
+
+PIX:  ROW = 4 COL = 4 - WRL ( -0.4,  -0.3) - Original hit point      -1.143  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -4.142   2.525  -4.000
+X index                995.858
+Y index               1002.525
+Original hit point      -1.143  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -4.142   2.525  -4.000
+X index                995.858
+Y index               1002.525
+Original hit point      -1.143  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -4.142   2.525  -4.000
+X index                995.858
+Y index               1002.525
+Original hit point      -1.143  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -4.142   2.525  -4.000
+X index                995.858
+Y index               1002.525
+Original hit point      -1.143  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -4.142   2.525  -4.000
+X index                995.858
+Y index               1002.525
+Original hit point      -1.143  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -4.142   2.525  -4.000
+X index                995.858
+Y index               1002.525
+
+PIX:  ROW = 5 COL = 4 - WRL (  0.4,  -0.3) - Original hit point       1.143  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.525   4.142  -4.000
+X index                997.475
+Y index               1004.142
+Original hit point       1.143  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.525   4.142  -4.000
+X index                997.475
+Y index               1004.142
+Original hit point       1.143  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.525   4.142  -4.000
+X index                997.475
+Y index               1004.142
+Original hit point       1.143  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.525   4.142  -4.000
+X index                997.475
+Y index               1004.142
+Original hit point       1.143  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.525   4.142  -4.000
+X index                997.475
+Y index               1004.142
+Original hit point       1.143  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -2.525   4.142  -4.000
+X index                997.475
+Y index               1004.142
+
+PIX:  ROW = 6 COL = 4 - WRL (  1.3,  -0.3) - Original hit point       3.429  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.909   5.758  -4.000
+X index                999.091
+Y index               1005.758
+Original hit point       3.429  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.909   5.758  -4.000
+X index                999.091
+Y index               1005.758
+Original hit point       3.429  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.909   5.758  -4.000
+X index                999.091
+Y index               1005.758
+Original hit point       3.429  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.909   5.758  -4.000
+X index                999.091
+Y index               1005.758
+Original hit point       3.429  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.909   5.758  -4.000
+X index                999.091
+Y index               1005.758
+Original hit point       3.429  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -0.909   5.758  -4.000
+X index                999.091
+Y index               1005.758
+
+PIX:  ROW = 7 COL = 4 - WRL (  2.2,  -0.3) - Original hit point       5.714  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       0.707   7.374  -4.000
+X index               1000.707
+Y index               1007.374
+Original hit point       5.714  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       0.707   7.374  -4.000
+X index               1000.707
+Y index               1007.374
+Original hit point       5.714  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       0.707   7.374  -4.000
+X index               1000.707
+Y index               1007.374
+Original hit point       5.714  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       0.707   7.374  -4.000
+X index               1000.707
+Y index               1007.374
+Original hit point       5.714  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       0.707   7.374  -4.000
+X index               1000.707
+Y index               1007.374
+Original hit point       5.714  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       0.707   7.374  -4.000
+X index               1000.707
+Y index               1007.374
+
+PIX:  ROW = 8 COL = 4 - WRL (  3.1,  -0.3) - Original hit point       8.000  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.323   8.990  -4.000
+X index               1002.323
+Y index               1008.990
+Original hit point       8.000  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.323   8.990  -4.000
+X index               1002.323
+Y index               1008.990
+Original hit point       8.000  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.323   8.990  -4.000
+X index               1002.323
+Y index               1008.990
+Original hit point       8.000  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.323   8.990  -4.000
+X index               1002.323
+Y index               1008.990
+Original hit point       8.000  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.323   8.990  -4.000
+X index               1002.323
+Y index               1008.990
+Original hit point       8.000  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       2.323   8.990  -4.000
+X index               1002.323
+Y index               1008.990
+
+PIX:  ROW = 9 COL = 4 - WRL (  4.0,  -0.3) - Original hit point      10.286  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.940  10.607  -4.000
+X index               1003.940
+Y index               1010.607
+Original hit point      10.286  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.940  10.607  -4.000
+X index               1003.940
+Y index               1010.607
+Original hit point      10.286  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.940  10.607  -4.000
+X index               1003.940
+Y index               1010.607
+Original hit point      10.286  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.940  10.607  -4.000
+X index               1003.940
+Y index               1010.607
+Original hit point      10.286  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.940  10.607  -4.000
+X index               1003.940
+Y index               1010.607
+Original hit point      10.286  -4.000  -4.714
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.940  10.607  -4.000
+X index               1003.940
+Y index               1010.607
+
+PIX:  ROW = 0 COL = 5 - WRL ( -4.0,   0.3) - Original hit point     -14.400  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point     -12.445  -7.920  -4.000
+X index                987.555
+Y index                992.080
+Original hit point     -14.400  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point     -12.445  -7.920  -4.000
+X index                987.555
+Y index                992.080
+Original hit point     -14.400  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point     -12.445  -7.920  -4.000
+X index                987.555
+Y index                992.080
+Original hit point     -14.400  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point     -12.445  -7.920  -4.000
+X index                987.555
+Y index                992.080
+Original hit point     -14.400  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point     -12.445  -7.920  -4.000
+X index                987.555
+Y index                992.080
+Original hit point     -14.400  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point     -12.445  -7.920  -4.000
+X index                987.555
+Y index                992.080
+
+PIX:  ROW = 1 COL = 5 - WRL ( -3.1,   0.3) - Original hit point     -11.200  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point     -10.182  -5.657  -4.000
+X index                989.818
+Y index                994.343
+Original hit point     -11.200  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point     -10.182  -5.657  -4.000
+X index                989.818
+Y index                994.343
+Original hit point     -11.200  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point     -10.182  -5.657  -4.000
+X index                989.818
+Y index                994.343
+Original hit point     -11.200  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point     -10.182  -5.657  -4.000
+X index                989.818
+Y index                994.343
+Original hit point     -11.200  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point     -10.182  -5.657  -4.000
+X index                989.818
+Y index                994.343
+Original hit point     -11.200  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point     -10.182  -5.657  -4.000
+X index                989.818
+Y index                994.343
+
+PIX:  ROW = 2 COL = 5 - WRL ( -2.2,   0.3) - Original hit point      -8.000  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -7.920  -3.394  -4.000
+X index                992.080
+Y index                996.606
+Original hit point      -8.000  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -7.920  -3.394  -4.000
+X index                992.080
+Y index                996.606
+Original hit point      -8.000  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -7.920  -3.394  -4.000
+X index                992.080
+Y index                996.606
+Original hit point      -8.000  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -7.920  -3.394  -4.000
+X index                992.080
+Y index                996.606
+Original hit point      -8.000  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -7.920  -3.394  -4.000
+X index                992.080
+Y index                996.606
+Original hit point      -8.000  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -7.920  -3.394  -4.000
+X index                992.080
+Y index                996.606
+
+PIX:  ROW = 3 COL = 5 - WRL ( -1.3,   0.3) - Original hit point      -4.800  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -5.657  -1.131  -4.000
+X index                994.343
+Y index                998.869
+Original hit point      -4.800  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -5.657  -1.131  -4.000
+X index                994.343
+Y index                998.869
+Original hit point      -4.800  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -5.657  -1.131  -4.000
+X index                994.343
+Y index                998.869
+Original hit point      -4.800  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -5.657  -1.131  -4.000
+X index                994.343
+Y index                998.869
+Original hit point      -4.800  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -5.657  -1.131  -4.000
+X index                994.343
+Y index                998.869
+Original hit point      -4.800  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -5.657  -1.131  -4.000
+X index                994.343
+Y index                998.869
+
+PIX:  ROW = 4 COL = 5 - WRL ( -0.4,   0.3) - Original hit point      -1.600  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.394   1.131  -4.000
+X index                996.606
+Y index               1001.131
+Original hit point      -1.600  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.394   1.131  -4.000
+X index                996.606
+Y index               1001.131
+Original hit point      -1.600  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.394   1.131  -4.000
+X index                996.606
+Y index               1001.131
+Original hit point      -1.600  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.394   1.131  -4.000
+X index                996.606
+Y index               1001.131
+Original hit point      -1.600  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.394   1.131  -4.000
+X index                996.606
+Y index               1001.131
+Original hit point      -1.600  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -3.394   1.131  -4.000
+X index                996.606
+Y index               1001.131
+
+PIX:  ROW = 5 COL = 5 - WRL (  0.4,   0.3) - Original hit point       1.600  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.131   3.394  -4.000
+X index                998.869
+Y index               1003.394
+Original hit point       1.600  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.131   3.394  -4.000
+X index                998.869
+Y index               1003.394
+Original hit point       1.600  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.131   3.394  -4.000
+X index                998.869
+Y index               1003.394
+Original hit point       1.600  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.131   3.394  -4.000
+X index                998.869
+Y index               1003.394
+Original hit point       1.600  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.131   3.394  -4.000
+X index                998.869
+Y index               1003.394
+Original hit point       1.600  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point      -1.131   3.394  -4.000
+X index                998.869
+Y index               1003.394
+
+PIX:  ROW = 6 COL = 5 - WRL (  1.3,   0.3) - Original hit point       4.800  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.131   5.657  -4.000
+X index               1001.131
+Y index               1005.657
+Original hit point       4.800  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.131   5.657  -4.000
+X index               1001.131
+Y index               1005.657
+Original hit point       4.800  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.131   5.657  -4.000
+X index               1001.131
+Y index               1005.657
+Original hit point       4.800  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.131   5.657  -4.000
+X index               1001.131
+Y index               1005.657
+Original hit point       4.800  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.131   5.657  -4.000
+X index               1001.131
+Y index               1005.657
+Original hit point       4.800  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       1.131   5.657  -4.000
+X index               1001.131
+Y index               1005.657
+
+PIX:  ROW = 7 COL = 5 - WRL (  2.2,   0.3) - Original hit point       8.000  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.394   7.920  -4.000
+X index               1003.394
+Y index               1007.920
+Original hit point       8.000  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.394   7.920  -4.000
+X index               1003.394
+Y index               1007.920
+Original hit point       8.000  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.394   7.920  -4.000
+X index               1003.394
+Y index               1007.920
+Original hit point       8.000  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.394   7.920  -4.000
+X index               1003.394
+Y index               1007.920
+Original hit point       8.000  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.394   7.920  -4.000
+X index               1003.394
+Y index               1007.920
+Original hit point       8.000  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       3.394   7.920  -4.000
+X index               1003.394
+Y index               1007.920
+
+PIX:  ROW = 8 COL = 5 - WRL (  3.1,   0.3) - Original hit point      11.200  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       5.657  10.182  -4.000
+X index               1005.657
+Y index               1010.182
+Original hit point      11.200  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       5.657  10.182  -4.000
+X index               1005.657
+Y index               1010.182
+Original hit point      11.200  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       5.657  10.182  -4.000
+X index               1005.657
+Y index               1010.182
+Original hit point      11.200  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       5.657  10.182  -4.000
+X index               1005.657
+Y index               1010.182
+Original hit point      11.200  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       5.657  10.182  -4.000
+X index               1005.657
+Y index               1010.182
+Original hit point      11.200  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       5.657  10.182  -4.000
+X index               1005.657
+Y index               1010.182
+
+PIX:  ROW = 9 COL = 5 - WRL (  4.0,   0.3) - Original hit point      14.400  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       7.920  12.445  -4.000
+X index               1007.920
+Y index               1012.445
+Original hit point      14.400  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       7.920  12.445  -4.000
+X index               1007.920
+Y index               1012.445
+Original hit point      14.400  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       7.920  12.445  -4.000
+X index               1007.920
+Y index               1012.445
+Original hit point      14.400  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       7.920  12.445  -4.000
+X index               1007.920
+Y index               1012.445
+Original hit point      14.400  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       7.920  12.445  -4.000
+X index               1007.920
+Y index               1012.445
+Original hit point      14.400  -4.000  -3.200
+Rotation matrix       
+   0.707   0.000   0.707
+   0.707   0.000  -0.707
+   0.000   1.000   0.000
+Rotated  hit point       7.920  12.445  -4.000
+X index               1007.920
+Y index               1012.445
+
+PIX:  ROW = 0 COL = 6 - WRL ( -4.0,   1.0) - 
+PIX:  ROW = 1 COL = 6 - WRL ( -3.1,   1.0) - 
+PIX:  ROW = 2 COL = 6 - WRL ( -2.2,   1.0) - 
+PIX:  ROW = 3 COL = 6 - WRL ( -1.3,   1.0) - 
+PIX:  ROW = 4 COL = 6 - WRL ( -0.4,   1.0) - 
+PIX:  ROW = 5 COL = 6 - WRL (  0.4,   1.0) - 
+PIX:  ROW = 6 COL = 6 - WRL (  1.3,   1.0) - 
+PIX:  ROW = 7 COL = 6 - WRL (  2.2,   1.0) - 
+PIX:  ROW = 8 COL = 6 - WRL (  3.1,   1.0) - 
+PIX:  ROW = 9 COL = 6 - WRL (  4.0,   1.0) - 
+PIX:  ROW = 0 COL = 7 - WRL ( -4.0,   1.7) - 
+PIX:  ROW = 1 COL = 7 - WRL ( -3.1,   1.7) - 
+PIX:  ROW = 2 COL = 7 - WRL ( -2.2,   1.7) - 
+PIX:  ROW = 3 COL = 7 - WRL ( -1.3,   1.7) - 
+PIX:  ROW = 4 COL = 7 - WRL ( -0.4,   1.7) - 
+PIX:  ROW = 5 COL = 7 - WRL (  0.4,   1.7) - 
+PIX:  ROW = 6 COL = 7 - WRL (  1.3,   1.7) - 
+PIX:  ROW = 7 COL = 7 - WRL (  2.2,   1.7) - 
+PIX:  ROW = 8 COL = 7 - WRL (  3.1,   1.7) - 
+PIX:  ROW = 9 COL = 7 - WRL (  4.0,   1.7) - 
+PIX:  ROW = 0 COL = 8 - WRL ( -4.0,   2.3) - 
+PIX:  ROW = 1 COL = 8 - WRL ( -3.1,   2.3) - 
+PIX:  ROW = 2 COL = 8 - WRL ( -2.2,   2.3) - 
+PIX:  ROW = 3 COL = 8 - WRL ( -1.3,   2.3) - 
+PIX:  ROW = 4 COL = 8 - WRL ( -0.4,   2.3) - 
+PIX:  ROW = 5 COL = 8 - WRL (  0.4,   2.3) - 
+PIX:  ROW = 6 COL = 8 - WRL (  1.3,   2.3) - 
+PIX:  ROW = 7 COL = 8 - WRL (  2.2,   2.3) - 
+PIX:  ROW = 8 COL = 8 - WRL (  3.1,   2.3) - 
+PIX:  ROW = 9 COL = 8 - WRL (  4.0,   2.3) - 
+PIX:  ROW = 0 COL = 9 - WRL ( -4.0,   3.0) - 
+PIX:  ROW = 1 COL = 9 - WRL ( -3.1,   3.0) - 
+PIX:  ROW = 2 COL = 9 - WRL ( -2.2,   3.0) - 
+PIX:  ROW = 3 COL = 9 - WRL ( -1.3,   3.0) - 
+PIX:  ROW = 4 COL = 9 - WRL ( -0.4,   3.0) - 
+PIX:  ROW = 5 COL = 9 - WRL (  0.4,   3.0) - 
+PIX:  ROW = 6 COL = 9 - WRL (  1.3,   3.0) - 
+PIX:  ROW = 7 COL = 9 - WRL (  2.2,   3.0) - 
+PIX:  ROW = 8 COL = 9 - WRL (  3.1,   3.0) - 
+PIX:  ROW = 9 COL = 9 - WRL (  4.0,   3.0) - 

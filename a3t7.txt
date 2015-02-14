@@ -1,0 +1,53 @@
+8 6             world x and y dims
+4 3 3           viewpoint (x, y, z)
+
+12              plane  - 0
+0.0 0.0 1.0     normal
+0.0 0.0 -28.0    point
+
+2.0 2.0 2.0     ambient
+3.2 3.2 3.2     diffuse
+0.0 0.0 0.0     specular
+
+12              plane  - 0
+0.0 1.0 0.0     normal
+0.0 0.0 0.0     point
+
+2.0 2.0 2.0     ambient
+3.2 3.2 3.2     diffuse
+0.0 0.0 0.0     specular
+
+11             sphere
+4 3 -3         center
+2.0            radius
+
+0.0 0.0 0.0     x
+5.0 5.0 5.0     x
+1.0 1.0 1.0     x
+
+10              light
+4  16 -3        center
+1               radius
+12 12 12        emissivity
+
+
+16              spotlight
+4  4  3         center
+1               radius
+0  22  0        emissivity
+4  0  -4        hits
+20.0            x
+
+16              spotlight
+0  4  2         center
+1               radius
+22 0   0        emissivity
+4  0  -4        hits
+20.0            x
+
+16              spotlight
+8  4  2         center
+1               radius
+0  0  22        emissivity
+4  0  -4        hits
+20.0            x

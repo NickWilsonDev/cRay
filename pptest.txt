@@ -1,0 +1,17 @@
+8 6 	world xand y
+
+0 0 3 		viewpoint
+
+20 		pplane
+
+8 8 8 		ambient
+
+0 0 0 	diffuse
+
+0 0 0 	specular
+
+0 0 1 	plane is a "back wall"
+
+0 0 -6 	located 6 units behind screen
+
+2 shader selector index

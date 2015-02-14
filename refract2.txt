@@ -1,0 +1,25 @@
+8 6           world x and y dims
+0 0 5         viewpoint (x, y, z)
+
+13 1.33            sphere
+0.3 0 0    amb, diffuse, spec
+0 0 0          amb, diffuse, spec
+0 0 0          amb, diffuse, spec
+
+0 0 0       center
+2.5             radius
+
+16             tiled plane
+0.0 0.0 0.0    amb, diffuse, spec
+0.0 0.0 0.0    amb, diffuse, spec
+0 0 0    amb, diffuse, spec
+
+0 0 1          normal
+-4 0 -6.0        point
+
+1.0 1.0 0.0    grid direction
+0.5 1.0        gridsize
+
+1.2 1.2 1.0    amb, diffuse, spec
+0 0 0    amb, diffuse, spec
+0.0 0.0 0.0    amb, diffuse, spec

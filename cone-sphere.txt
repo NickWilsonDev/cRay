@@ -1,0 +1,45 @@
+8 6           world x and y dims
+4 3 3         viewpoint (x, y, z)
+
+10             light
+12 12 12      emissivity
+4 3 5          center
+1              radius
+
+17             cone
+0.2 0.2 0.2    amb, diffuse, spec
+2.0 2.0 2.0    amb, diffuse, spec
+1.0 1.0 1.0    amb, diffuse, spec
+4 4 -4         center point
+0 -1 0         center line
+2.0  5         radius height
+
+11             sphere
+0.2 0.2 0.2    amb, diffuse, spec
+2.0 2.0 2.0    amb, diffuse, spec
+1.0 1.0 1.0    amb, diffuse, spec
+4 4.8 -4         center point
+2.15407        radius
+
+
+13             cyl
+0.2 0.2 0.2    amb, diffuse, spec
+2.0 2.0 2.0    amb, diffuse, spec
+1.0 1.0 1.0    amb, diffuse, spec
+0 -2 -4         center point
+1  0   0         center line
+1.0  8         radius height
+
+11             sphere
+0.2 0.2 0.2    amb, diffuse, spec
+2.0 2.0 2.0    amb, diffuse, spec
+1.0 1.0 1.0    amb, diffuse, spec
+0 -2 -4         center point
+1
+
+11             sphere
+0.2 0.2 0.2    amb, diffuse, spec
+2.0 2.0 2.0    amb, diffuse, spec
+1.0 1.0 1.0    amb, diffuse, spec
+8 -2 -4         center point
+1
